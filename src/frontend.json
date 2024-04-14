@@ -1,9 +1,16 @@
 {
-    "data": [
-        {
-            "name": " Vue2, React, Bootstrap ",
-            "link": "www.github.com"
-        },
-            ...
-    ]
+  "data": [
+    {
+      "name": " Vue2 ",
+      "link": "<www.github.com>"
+    },
+    {
+      "name": " Bootstrap>",
+      "link": "www.linkedin.com"
+    },
+    {
+      "name": " Bootstrap ",
+      "link": "www.google.com"
+    }
+  ]
 }
